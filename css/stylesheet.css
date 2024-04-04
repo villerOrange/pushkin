@@ -1,0 +1,14 @@
+.bio {
+    font-style: italic;
+    width: 500px;
+    border: 1px solid gray;
+    margin: 50px;
+}
+
+img {
+    width: 100px;
+}
+
+body {
+    border: 1px solid red;
+}
